@@ -1,0 +1,16 @@
+
+body{
+    background-image: url('fondo.jpeg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin: 0;
+}
+
+header{
+    padding: 10px;
+    background-color: rgb(46, 155, 233);
+    color: white;
+    text-align: center;
+    font-family: sans-serif;
+}
+
